@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Maguilarbagaria
 - 👀 I’m interested in Data Science and Python Programming.
-- 🌱 I’m currently learning things related with Data, Programming and Web Developing mainly with python.
+- 🌱 Currently learning things related with Data Algorithms and Backend Developing mainly with python.
+- 💙 I love new knowledge and challenges!
 
 
 <!---
