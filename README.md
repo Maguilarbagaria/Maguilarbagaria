@@ -1,6 +1,6 @@
 
 # WELCOME!
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` 
+
 ##
 - 👋 Hi, I’m `@Maguilarbagaria`!
 - 👀 I’m interested in Data Science&Engineering and Python Programming.
